@@ -1,0 +1,12 @@
+Steps:
+- Data pre-processing
+	- importing data
+	- clean data
+	- split into training and test sets
+- Modeling 
+	- build model
+	- train model
+	- make predictions
+- Evaluation 
+	- calculate performance metrics
+	- verdict
