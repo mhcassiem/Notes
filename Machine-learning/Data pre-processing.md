@@ -31,7 +31,7 @@ In cases like these it is useful to scale the attribute values to a uniform scal
 Feature scaling is applied to columns
 
 Two types
-1. Normalization
-	1. $$\frac{X-X_{min}}{X_{max}-X_{min}}$$
-2. Standardization
-	1. $$\frac{X-\mu}{\sigma}$$
+- Normalization
+	- $$\frac{X-X_{min}}{X_{max}-X_{min}}$$
+- Standardization
+	- $$\frac{X-\mu}{\sigma}$$
