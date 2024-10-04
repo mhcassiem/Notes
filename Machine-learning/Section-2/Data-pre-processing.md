@@ -24,11 +24,9 @@ Training set is used to create model and test set is used for evaluation.
 
 Sometimes different data attributes have wildly different value scales.
 Eg. salary number vs age
-In cases like these it is useful to scale the attribute values to a uniform scale.
+In cases like these it is useful to scale the attribute values to a uniform scale. This is feature scaling.
 
-##### This is feature scaling.
-
-Feature scaling is applied to columns
+#### Feature scaling is applied to columns
 
 Two types
 - Normalization
